@@ -1,0 +1,79 @@
+body {
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+header {
+    background-color: purple;
+    width: 100%;
+    height: 30%;
+    margin-right: 5px;
+}
+.kairys{
+    background-color: aqua;
+    width: 60%;
+    height: 605px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.kairedown1 {
+    background-color: green;
+    height: 68%;
+    width: 100%;
+    margin: 5px 5px 0px 0px;
+}
+.desinys{
+    background-color: blue;
+    display: flex;
+    flex-wrap: wrap;
+    width: 40%;
+    height: 605px;
+}
+.desinetop {
+    background-color: crimson;
+    display: flex;
+    flex-wrap: wrap;
+    grid-gap: 8px;
+    width: 100%;
+    height: 40%;
+
+}
+.desinysdown {
+    background-color: purple;
+    width: 100%;
+    height: 58%;
+    margin-top: 5px;
+}
+.desiniovid1 {
+    width: 48%;
+    height: 100%;
+    margin: 5px;
+}
+.desiniovdi2 {
+    width: 48%;
+    height: 100%;
+    margin: 5px 0px 0px 0px;
+}
+#top1 {
+    background-color: pink;
+    height: 48%;
+    width: 100%;
+
+}
+#top2 {
+    background-color: yellow;
+    height: 48%;
+    width: 100%;
+    margin-top: 1px;
+}
+#top3 {
+    background-color: orange;
+    height: 48%;
+    width: 100%;
+}
+#top4 {
+    background-color: saddlebrown;
+    height: 48%;
+    width: 100%;
+    margin-top: 1px;
+}
